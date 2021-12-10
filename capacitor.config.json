@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "kurma",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
