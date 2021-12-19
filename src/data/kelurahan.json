@@ -1,0 +1,248 @@
+[
+  {
+      "id": "6471050003",
+      "district_id": "6471050",
+      "name": "Baru Ilir",
+      "zona": 2
+    },
+    {
+      "id": "6471050001",
+      "district_id": "6471050",
+      "name": "Baru Tengah",
+      "zona": 2
+    },
+    {
+      "id": "6471050005",
+      "district_id": "6471050",
+      "name": "Baru Ulu",
+      "zona": 4
+    },
+    {
+      "id": "6471030003",
+      "district_id": "6471030",
+      "name": "Batu Ampar",
+      "zona": 2
+    },
+    {
+      "id": "6471011005",
+      "district_id": "6471011",
+      "name": "Damai",
+      "zona": 0
+    },
+  {
+    "id": "6471010009",
+    "district_id": "6471010",
+    "name": "Damai Bahagia",
+    "zona": 1
+  },
+  {
+    "id": "6471010008",
+    "district_id": "6471010",
+    "name": "Damai Baru",
+    "zona": 1
+  },
+   {
+      "id": "6471030006",
+      "district_id": "6471030",
+      "name": "Graha Indah",
+      "zona": 5
+    },
+  {
+    "id": "6471010006",
+    "district_id": "6471010",
+    "name": "Gunung Bahagia",
+    "zona": 1
+  },
+  {
+      "id": "6471030002",
+      "district_id": "6471030",
+      "name": "Gunung Samarinda",
+      "zona": 2
+    },
+  {
+      "id": "6471030005",
+      "district_id": "6471030",
+      "name": "Gunung Samarinda Baru",
+      "zona": 2
+    },
+   {
+      "id": "6471040001",
+      "district_id": "6471040",
+      "name": "Gunung Sari Ilir",
+      "zona": 0
+    },
+    {
+      "id": "6471040002",
+      "district_id": "6471040",
+      "name": "Gunung Sari Ulu",
+      "zona": 0
+    },
+    {
+      "id": "6471040006",
+      "district_id": "6471040",
+      "name": "Karang Jati",
+      "zona": 0
+    },
+   {
+      "id": "6471030004",
+      "district_id": "6471030",
+      "name": "Kr Joang KM <10",
+      "zona": 12
+    },
+   {
+      "id": "6471030007",
+      "district_id": "6471030",
+      "name": "Kr Joang KM 11-15",
+      "zona": 13
+    },
+    {
+      "id": "6471030008",
+      "district_id": "6471030",
+      "name": "Kr Joang KM 16-20",
+      "zona": 14
+    }, 
+    {
+      "id": "6471030009",
+      "district_id": "6471030",
+      "name": "Kr Joang KM >21",
+      "zona": 15
+    },
+   {
+      "id": "6471040004",
+      "district_id": "6471040",
+      "name": "Karang Rejo",
+      "zona": 0
+    },
+    {
+      "id": "6471050006",
+      "district_id": "6471050",
+      "name": "Kariangau Sblm Puskesmas",
+      "zona": 8
+    },
+    {
+      "id": "6471050007",
+      "district_id": "6471050",
+      "name": "Kariangau Ssdh Puskesmas",
+      "zona": 9
+    },
+    {
+      "id": "6471050008",
+      "district_id": "6471050",
+      "name": "Kariangau Salok Baru",
+      "zona": 10
+    },
+    {
+      "id": "6471050009",
+      "district_id": "6471050",
+      "name": "Kariangau Pelabuhan KKT",
+      "zona": 11
+    },
+   {
+      "id": "6471011004",
+      "district_id": "6471011",
+      "name": "Klandasan Ilir",
+      "zona": 0
+    },
+   {
+      "id": "6471011003",
+      "district_id": "6471011",
+      "name": "Klandasan Ulu",
+      "zona": 0
+    },
+    {
+      "id": "6471020003",
+      "district_id": "6471020",
+      "name": "Lamaru",
+      "zona": 3
+    },
+    {
+      "id": "6471020001",
+      "district_id": "6471020",
+      "name": "Manggar",
+      "zona": 1
+    },
+    {
+      "id": "6471020002",
+      "district_id": "6471020",
+      "name": "Manggar Baru",
+      "zona": 3
+    },
+    {
+      "id": "6471050002",
+      "district_id": "6471050",
+      "name": "Margasari",
+      "zona": 2
+    },
+    {
+      "id": "6471050004",
+      "district_id": "6471050",
+      "name": "Margo Mulyo",
+      "zona": 2
+    },
+    {
+      "id": "6471040003",
+      "district_id": "6471040",
+      "name": "Mekar Sari",
+      "zona": 0
+    },
+    {
+      "id": "6471030001",
+      "district_id": "6471030",
+      "name": "Muara Rapak",
+      "zona": 2
+    },
+   {
+      "id": "6471011001",
+      "district_id": "6471011",
+      "name": "Prapatan",
+      "zona": 0
+    },
+  {
+    "id": "6471010007",
+    "district_id": "6471010",
+    "name": "Sepinggan",
+    "zona": 1
+  },
+  {
+    "id": "6471010012",
+    "district_id": "6471010",
+    "name": "Sepinggan Baru",
+    "zona": 1
+  },
+  {
+    "id": "6471010011",
+    "district_id": "6471010",
+    "name": "Sepinggan Raya",
+    "zona": 1
+  },
+    {
+      "id": "6471040005",
+      "district_id": "6471040",
+      "name": "Sumber Rejo",
+      "zona": 0
+   },
+  {
+    "id": "6471010010",
+    "district_id": "6471010",
+    "name": "Sungai Nangka",
+    "zona": 1
+  },
+    {
+      "id": "6471011002",
+      "district_id": "6471011",
+      "name": "Telaga Sari",
+      "zona": 0
+    },
+    {
+      "id": "6471020004",
+      "district_id": "6471020",
+      "name": "Teritip",
+      "zona": 6
+    },
+    {
+      "id": "6471020005",
+      "district_id": "6471020",
+      "name": "Teritip Gn Tembak",
+      "zona": 7
+    }
+]
