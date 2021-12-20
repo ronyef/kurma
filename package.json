@@ -2,7 +2,7 @@
   "name": "kurma",
   "version": "0.0.1",
   "private": true,
-  "homepage": ".",
+  "homepage": "",
   "dependencies": {
     "@capacitor/app": "1.0.7",
     "@capacitor/core": "3.3.3",
